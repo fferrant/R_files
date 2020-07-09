@@ -1,3 +1,1 @@
-# R_files
-
-#Carpeta con porgramas de data science utilizando R
+# R_files: Carpeta con porgramas de data science utilizando R
